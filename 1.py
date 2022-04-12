@@ -1,5 +1,5 @@
 def test():
     pass
 
-class Demo:
+class Deom:
     pass
