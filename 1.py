@@ -3,3 +3,10 @@ def test():
 
 class Deom:
     pass
+
+
+for _ in range():
+    pass
+
+
+
